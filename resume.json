@@ -1,0 +1,314 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Juan Pablo Addeo",
+        "label": "Ingeniero en Sistemas de Información",
+        "image": "",
+        "email": "juanpablo.addeo@gmail.com",
+        "phone": "(54) 9 11-3163-8755",
+        "url": "https://jpaddeo.github.io/",
+        "summary": "Soy Argentino, nacido en la Ciudad Autónoma de Buenos Aires, Argentina. Ingeniero en Sistemas de la Información recibido en la Facultad Regional de Buenos Aires pertenciente a la Universidad Tecnológica Nacional. Me apasiona la tecnología y el desarrollo de software. Desarrollo y diseño software desde que comencé a incursionar en mi carrera profesional. Trabajé en distintos proyectos con distintas tecnologías y en distintas compañías. Freelancer. Emprendedor.",
+        "location": {
+            "address": "Blanco Encalada 4765",
+            "postalCode": "1431",
+            "city": "Ciudad Autónoma de Buenos Aires",
+            "countryCode": "AR",
+            "region": "Buenos Aires"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "jpaddeo",
+                "url": "https://twitter.com/jpaddeo"
+            },
+            {
+                "network": "Github",
+                "username": "jpaddeo",
+                "url": "https://github.com/jpaddeo/"
+            },
+            {
+                "network": "Gitlab",
+                "username": "jpaddeo",
+                "url": "https://gitlab.com/jpaddeo/"
+            },
+            {
+                "network": "Linkedin",
+                "username": "juanpabloaddeo",
+                "url": "https://www.linkedin.com/in/juanpabloaddeo/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Ministerio Público Fiscal de la C.A.B.A.",
+            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+            "position": "Ingeniero en Sistemas de Información",
+            "url": "https://www.mpfciudad.gob.ar",
+            "startDate": "2018-08-01",
+            "summary": "Titular del Dpto. de Investigación y Desarrollo Informático (DIyDI)",
+            "highlights": [
+                "Administración de recursos y proyectos del DIyDI",
+                "Diseño de software",
+                "Desarrollo de software",
+                "Integraciones (microservicios / APIs)",
+                "Implementaciones y administración de servidores",
+                "Capacitación y coaching"
+            ]
+        },
+        {
+            "company": "Ministerio Público Fiscal de la C.A.B.A.",
+            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+            "position": "Líder de Desarrollo de Software",
+            "url": "https://www.mpfciudad.gob.ar",
+            "startDate": "2017-02-01",
+            "endDate": "2018-07-31",
+            "summary": "Líder en el Área de Gestión y Desarrollo de Ap. Informáticas perteneciente al Ministerio Público Fiscal de la C.A.B.A.",
+            "highlights": [
+                "Administración de proyectos.",
+                "Análisis técnico.",
+                "Diseño de software.",
+                "Capacitación y coaching de recursos IT."
+            ]
+        },
+        {
+            "company": "Ministerio Público Fiscal de la C.A.B.A.",
+            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+            "position": "Analista Técnico y Desarrollador de Software",
+            "url": "https://www.mpfciudad.gob.ar",
+            "startDate": "2012-08-01",
+            "endDate": "2017-01-31",
+            "summary": "Analista técnico y desarrollador en el Dpto. de TI y Comunicaciones perteneciente al Minsiterio Público Fiscal de la C.A.B.A.",
+            "highlights": [
+                "Análisis técnico y desarrollo de software..",
+                "Diseño de BD."
+            ]
+        },
+        {
+            "company": "Freelance",
+            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+            "position": "Desarrollador de Software",
+            "url": "https://jpaddeo.github.io",
+            "startDate": "2008-08-01",
+            "summary": "Consultor Informático. Analista técnico y desarrollador de software. Artquitecto de software.",
+            "highlights": [
+                "Consultoría TI",
+                "Diseño y desarrollo de software",
+                "Diseño y desarrollo móvil",
+                "Adminsitración de servidores",
+                "Integraciones",
+                "Sitios web"
+            ]
+        },
+        {
+            "company": "Baufest",
+            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+            "position": "Desarrollador .NET y Sharepoint",
+            "url": "https://baufest.com",
+            "startDate": "2010-05-01",
+            "endDate": "2012-07-31",
+            "summary": "Desarrollador .NET y Sharepoint en distintos clientes y proyectos",
+            "highlights": [
+                "Configuración, Implementación y Desarrollo de plataforma MOSS 2007",
+                "Desarrollo de formularios en Infopath 2007 y 2010",
+                "Desarrollo de workflows en Nintex 2007 y 2010",
+                "Desarrollo de integraciones .NET para distintas plataformas (ClearQuest, ActiveDirectory, CA USD, Sharepoint)"
+            ]
+        },
+        {
+            "company": "Baufest",
+            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+            "position": "IT Specialist",
+            "url": "https://baufest.com",
+            "startDate": "2009-09-01",
+            "endDate": "2010-04-30",
+            "summary": "Principalmente desarrollo y configurción de plataforma IBM Rational ClearQuest",
+            "highlights": [
+                "Configuración, Implementación y Desarrollo de plataforma IBM Rational ClearQuest",
+                "Desarrollo de VBScript y SQL"
+            ]
+        },
+        {
+            "company": "IBM",
+            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+            "position": "Desarrollador de Aplicaciones",
+            "url": "https://ibm.com",
+            "startDate": "2008-08-01",
+            "endDate": "2009-09-30",
+            "summary": "Plataforma IBM Lotus Domino para LATAM",
+            "highlights": [
+                "Configuración, Implementación y Desarrollo de plataforma IBM Lotus Domino",
+                "Soporte a usuarios locales",
+                "HR Access LATAM Account"
+            ]
+        },
+        {
+            "company": "NSX S.A.",
+            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+            "position": "Junior IT Specialist",
+            "url": "http://www.e-nsx.com",
+            "startDate": "2007-06-01",
+            "endDate": "2008-07-31",
+            "summary": "Plataforma IBM Lotus Domino",
+            "highlights": [
+                "Configuración, Implementación y Desarrollo de plataforma IBM Lotus Domino",
+                "Soporte a usuarios locales"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Facultad Regional Buenos Aires, Universidad Tecnológica Nacional (UTN)",
+            "url": "https://www.frba.utn.edu.ar",
+            "area": "Universitario",
+            "studyType": "Ingeniero en Sistemas de la Información",
+            "startDate": "2006-01-01",
+            "endDate": "2018-08-01"
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Me Regalas Una Hora",
+            "position": "Consultor Externo",
+            "website": "https://meregalasunahora.org/",
+            "startDate": "2020-07-01",
+            "endDate": "2020-09-30",
+            "summary": "Desarrollo de implementación de CMS y sitio web. Adquisición y administración de cuenta empresarial (meregalasunahora.org)",
+            "highlights": [
+                "Migración de servidor y servicio hosting",
+                "Coordinación e implementación de diseños / mockups y renders",
+                "Desarrollo backend (CMS) y frontend del sitio web nuevo",
+                "Integraciones con Google Calendar y Leaflet GIS"
+            ]
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Desarrollador",
+            "level": "Senior",
+            "keywords": [
+                "Materialize",
+                "Bootstrap",
+                "PHP",
+                "AngularJS",
+                "Python",
+                "VueJS",
+                "Ionic",
+                "Java",
+                "Javascript",
+                "Shell script",
+                ".NET Core"
+            ]
+        },
+        {
+            "name": "Arquitecto",
+            "level": "Semi Senior",
+            "keywords": [
+                "Elasticsearch",
+                "Kibana",
+                "Logstash",
+                "Filebeat",
+                "Microservicios / APIs",
+                "Gateways",
+                "Firebase",
+                "Keycloack",
+                "Server admin",
+                "Docker",
+                "CI/CD"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "fluency": "nativo"
+        },
+        {
+            "language": "Inglés",
+            "fluency": "intermedio"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [
+        {
+            "name": "¿Me Regalás Una Hora?",
+            "description": "Renovación Imagen Institucional",
+            "highlights": [
+                "Desarrollo de CMS Laravel",
+                "Desarrollo de frontend (maquetado, blade views + AngularJS)",
+                "Integración Leaflet GIS",
+                "Integración Google Calendar"
+            ],
+            "keywords": [
+                "CMS",
+                "Laravel",
+                "SEO"
+            ],
+            "startDate": "2020-07-01",
+            "endDate": "2020-09-30",
+            "url": "https://meregalasunahora.org",
+            "roles": [
+                "Lider de proyecto",
+                "Arquitecto",
+                "Desarrollador",
+                "Analista funcional"
+            ],
+            "entity": "MRUH",
+            "type": "application"
+        },
+        {
+            "name": "Aplicación Web Denuncias MPF",
+            "description": "Permite a cualquier ciudadano poder denunciar delitos tipificados y otros de forma anónima o identificada. Consulta y seguimiento de denuncias realizadas. Consulta de información útil y de autoridades (comisarías, centros de denuncias: UODs, fiscalías).",
+            "highlights": [
+                "Progessive Web Application desarrollada con Ionic + angularJS",
+                "Servicios REST para integración con Sistema de Expedientes Judiciales (KIWI)"
+            ],
+            "keywords": [
+                "pwa",
+                "rest",
+                "angularJS",
+                "ionic"
+            ],
+            "startDate": "2020-02-01",
+            "endDate": "2020-03-31",
+            "url": "https://denuncias.fiscalias.gob.ar/",
+            "roles": [
+                "Líder de proyecto",
+                "Arquitecto"
+            ],
+            "entity": "MPFCABA",
+            "type": "application"
+        },
+        {
+            "name": "Sitio institucional Ministerio Público Fiscal de la C.A.B.A.",
+            "description": "Nuevo sitio institucional del MPFCABA",
+            "highlights": [
+                "cms",
+                "website"
+            ],
+            "keywords": [
+                "laravel",
+                "blade",
+                "usig",
+                "elasticsearch",
+                "html5"
+            ],
+            "startDate": "2020-02-01",
+            "endDate": "2020-03-31",
+            "url": "https://mpfciudad.gob.ar",
+            "roles": [
+                "Líder de proyecto",
+                "Arquitecto"
+            ],
+            "entity": "MPFCABA",
+            "type": "application"
+        }
+    ],
+    "meta": {
+        "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+        "version": "v1.0.0",
+        "lastModified": "2020-01-11T11:00:00"
+    }
+}
