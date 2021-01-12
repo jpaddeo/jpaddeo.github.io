@@ -269,7 +269,8 @@
                 "pwa",
                 "rest",
                 "angularJS",
-                "ionic"
+                "ionic",
+                "denuncias"
             ],
             "startDate": "2020-02-01",
             "endDate": "2020-03-31",
@@ -285,8 +286,8 @@
             "name": "Sitio institucional Ministerio Público Fiscal de la C.A.B.A.",
             "description": "Nuevo sitio institucional del MPFCABA",
             "highlights": [
-                "cms",
-                "website"
+                "Desarrollo de Content Management System (CMS)",
+                "Diseño y desarrollo de Sitio Web"
             ],
             "keywords": [
                 "laravel",
@@ -301,6 +302,131 @@
             "roles": [
                 "Líder de proyecto",
                 "Arquitecto"
+            ],
+            "entity": "MPFCABA",
+            "type": "application"
+        },
+        {
+            "name": "Aplicación iOS de Denuncias para el Ministerio Público Fiscal de la C.A.B.A.",
+            "description": "Aplicación de celulares para dispositivos Apple que le permite al ciudadano denunciar delitos y contravenciones ante el MPFCABA",
+            "highlights": [
+                "Desarrollo de aplicación móvil"
+            ],
+            "keywords": [
+                "ionic",
+                "ios",
+                "microservices",
+                "googlemaps",
+                "html5"
+            ],
+            "startDate": "2018-11-01",
+            "endDate": "2019-01-31",
+            "url": "https://apps.apple.com/ar/app/denuncias-mpf/id1446289355",
+            "roles": [
+                "Líder de proyecto",
+                "Arquitecto"
+            ],
+            "entity": "MPFCABA",
+            "type": "application"
+        },
+        {
+            "name": "Implementación de Interfaz entre el Sistema Informático KIWI y servicios de RENAPER",
+            "description": "Desarrollo e implementación de interfaz de comunicación entre Sistema Informático KIWI y servicios de RENAPER (Registro Nacional de las Personas) para la obtención de información nominal de los actores partícipes en un expediente digital.",
+            "highlights": [
+                "Desarrollo de interfaces",
+                "Proxies + gateways",
+                "Microservicios",
+                "Integraciones"
+            ],
+            "keywords": [
+                "php",
+                "proxies",
+                "gateways",
+                "microservices",
+                "renaper"
+            ],
+            "startDate": "2018-10-01",
+            "endDate": "2018-11-30",
+            "roles": [
+                "Líder de proyecto",
+                "Arquitecto",
+                "Desarrollador"
+            ],
+            "entity": "MPFCABA",
+            "type": "application"
+        },
+        {
+            "name": "Aplicación Android de Denuncias para el Ministerio Público Fiscal de la C.A.B.A.",
+            "description": "Aplicación de celulares para dispositivos Apple que le permite al ciudadano denunciar delitos y contravenciones ante el MPFCABA",
+            "highlights": [
+                "Desarrollo de aplicación móvil"
+            ],
+            "keywords": [
+                "ionic",
+                "android",
+                "microservices",
+                "googlemaps",
+                "html5"
+            ],
+            "startDate": "2018-09-01",
+            "endDate": "2018-10-31",
+            "url": "https://play.google.com/store/apps/details?id=ar.gob.mpf.denunciasmob",
+            "roles": [
+                "Líder de proyecto",
+                "Arquitecto"
+            ],
+            "entity": "MPFCABA",
+            "type": "application"
+        },
+        {
+            "name": "Implementación de Interfaz entre el Sistema Informático KIWI y servicios de RNR",
+            "description": "Desarrollo e implementación de interfaz de comunicación entre Sistema Informático KIWI y servicios de RNR (Registro Nacional de Reincidencia) para la obtención de antecedentes de los actores partícipes en un expediente digital.",
+            "highlights": [
+                "Desarrollo de interfaces",
+                "Proxies + gateways",
+                "Microservicios",
+                "Integraciones"
+            ],
+            "keywords": [
+                "php",
+                "proxies",
+                "gateways",
+                "microservices",
+                "reincidencias"
+            ],
+            "startDate": "2018-09-01",
+            "endDate": "2018-10-31",
+            "roles": [
+                "Líder de proyecto",
+                "Arquitecto",
+                "Desarrollador"
+            ],
+            "entity": "MPFCABA",
+            "type": "application"
+        },
+        {
+            "name": "Implementación de API REST del Ministerio Público Fiscal de la C.A.B.A.",
+            "description": "Para facilitar el acceso a información interna proporcionada por los sistemas y aplicaciones del Ministerio Público Fiscal de la C.A.B.A., se ha desarrollado concentrador de servicios REST para su consumo. Estos servicios se alinean a los estándares especificados por la Dirección Nacional de Servicios Digitales del Ministerio de Modernización.",
+            "highlights": [
+                "Desarrollo de APIs",
+                "Proxies + gateways",
+                "Microservicios",
+                "Integraciones"
+            ],
+            "keywords": [
+                "laravel",
+                "api",
+                "php",
+                "proxies",
+                "gateways",
+                "microservices"
+            ],
+            "startDate": "2018-08-01",
+            "endDate": "2018-09-30",
+            "roles": [
+                "Líder de proyecto",
+                "Arquitecto",
+                "Desarrollador"
             ],
             "entity": "MPFCABA",
             "type": "application"
