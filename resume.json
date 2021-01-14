@@ -175,6 +175,7 @@
             "url": "https://www.linkedin.com/learning",
             "area": "Freelance",
             "studyType": "Cursos",
+            "startDate": "2021-01-01",
             "courses": [
                 "JavaScript escencial"
             ]
@@ -184,6 +185,8 @@
             "url": "https://udemy.com",
             "area": "Freelance",
             "studyType": "Cursos",
+            "startDate": "2018-01-01",
+            "endDate": "2020-02-01",
             "courses": [
                 "Desarrollo web con Laravel 5.6, VueJS y MariaDB Mysql",
                 "GitLab CI: Pipelines, CI/CD and DevOps"
@@ -194,6 +197,8 @@
             "url": "https://www.educacionit.com/",
             "area": "Freelance",
             "studyType": "Cursos",
+            "startDate": "2018-02-01",
+            "endDate": "2018-03-01",
             "courses": [
                 "PHP MVC Laravel"
             ]
@@ -203,6 +208,8 @@
             "url": "https://www.datalytics.com/",
             "area": "Freelance",
             "studyType": "Cursos",
+            "startDate": "2015-09-01",
+            "endDate": "2015-11-01",
             "courses": [
                 "Instalación y Administración de Plataforma Pentaho",
                 "Integración de datos con Pentaho Data Integration",
@@ -215,6 +222,8 @@
             "url": "https://www.pluralsight.com/codeschool",
             "area": "Freelance",
             "studyType": "Cursos",
+            "startDate": "2015-03-01",
+            "endDate": "2015-04-01",
             "courses": [
                 "Shaping Up with AngularJS"
             ]
@@ -224,6 +233,8 @@
             "url": "https://www.processmaker.com/",
             "area": "Freelance",
             "studyType": "Cursos",
+            "startDate": "2013-12-01",
+            "endDate": "2014-02-01",
             "courses": [
                 "Processmaker Developer Course",
                 "Processmaker Advanced Architect Training"
