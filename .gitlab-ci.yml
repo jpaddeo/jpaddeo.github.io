@@ -1,5 +1,6 @@
 stages:
   - build
+  - artifacts
 
 pages:
   stage: build
@@ -11,3 +12,14 @@ pages:
   artifacts:
     paths:
       - public
+
+pdf:
+  stage: artifacts
+  image: node:latest
+  script:
+    - apt-get update && apt-get install -y wget gnupg && wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - && sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list' && apt-get update && apt-get install -y google-chrome-stable fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fonts-freefont-ttf libxss1 zip --no-install-recommends
+    - npm i
+    - RESUME_PUPPETEER_NO_SANDBOX=1 npm run export -- --theme elegant CV_JPA.pdf
+  artifacts:
+    paths:
+      - CV_JPA.pdf

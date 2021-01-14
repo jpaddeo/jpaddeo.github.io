@@ -4,6 +4,7 @@
         "name": "Juan Pablo Addeo",
         "label": "Ingeniero en Sistemas de Información",
         "image": "",
+        "picture": "",
         "email": "juanpablo.addeo@gmail.com",
         "phone": "(54) 9 11-3163-8755",
         "url": "https://jpaddeo.github.io/",
@@ -162,7 +163,71 @@
             "area": "Universitario",
             "studyType": "Ingeniero en Sistemas de la Información",
             "startDate": "2006-01-01",
-            "endDate": "2018-08-01"
+            "endDate": "2018-08-01",
+            "courses": [
+                "SL-210 JAVA Programming",
+                "SL-275 JAVA Programming",
+                "Professional Webmaster"
+            ]
+        },
+        {
+            "institution": "Linkedin Learning",
+            "url": "https://www.linkedin.com/learning",
+            "area": "Freelance",
+            "studyType": "Cursos",
+            "courses": [
+                "JavaScript escencial"
+            ]
+        },
+        {
+            "institution": "Udemy",
+            "url": "https://udemy.com",
+            "area": "Freelance",
+            "studyType": "Cursos",
+            "courses": [
+                "Desarrollo web con Laravel 5.6, VueJS y MariaDB Mysql",
+                "GitLab CI: Pipelines, CI/CD and DevOps"
+            ]
+        },
+        {
+            "institution": "Educacion IT",
+            "url": "https://www.educacionit.com/",
+            "area": "Freelance",
+            "studyType": "Cursos",
+            "courses": [
+                "PHP MVC Laravel"
+            ]
+        },
+        {
+            "institution": "Datalytics",
+            "url": "https://www.datalytics.com/",
+            "area": "Freelance",
+            "studyType": "Cursos",
+            "courses": [
+                "Instalación y Administración de Plataforma Pentaho",
+                "Integración de datos con Pentaho Data Integration",
+                "Dashboard con Ctools y Dashboard Editor",
+                "Pentaho Reports Designer y Metadata"
+            ]
+        },
+        {
+            "institution": "CodeSchool",
+            "url": "https://www.pluralsight.com/codeschool",
+            "area": "Freelance",
+            "studyType": "Cursos",
+            "courses": [
+                "Shaping Up with AngularJS"
+            ]
+        },
+        {
+            "institution": "ProcessMaker",
+            "url": "https://www.processmaker.com/",
+            "area": "Freelance",
+            "studyType": "Cursos",
+            "courses": [
+                "Processmaker Developer Course",
+                "Processmaker Advanced Architect Training"
+            ]
         }
     ],
     "volunteer": [
@@ -188,6 +253,8 @@
             "name": "Desarrollador",
             "level": "Senior",
             "keywords": [
+                "HTML",
+                "CSS",
                 "Materialize",
                 "Bootstrap",
                 "PHP",
@@ -425,6 +492,80 @@
             "endDate": "2018-09-30",
             "roles": [
                 "Líder de proyecto",
+                "Arquitecto",
+                "Desarrollador"
+            ],
+            "entity": "MPFCABA",
+            "type": "application"
+        },
+        {
+            "name": "Desarrollo e Implementación de Red de Datos Vinculados del Ministerio Público Fiscal de la C.A.B.A.",
+            "description": "Herramienta que permite desplegar relaciones / conexiones en forma de grafos entre los distintos nodos de información contenidos en una o varias fuentes de datos.",
+            "highlights": [
+                "Red de Datos",
+                "Vinculaciones",
+                "ETL",
+                "Datamining",
+                "Integraciones"
+            ],
+            "keywords": [
+                "neo4j",
+                "angularJS",
+                "popoto",
+                "mysql"
+            ],
+            "startDate": "2017-09-01",
+            "endDate": "2017-11-30",
+            "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20381-17.pdf",
+            "roles": [
+                "Líder de proyecto",
+                "Arquitecto"
+            ],
+            "entity": "MPFCABA",
+            "type": "application"
+        },
+        {
+            "name": "Desarrollo e Implementación de Módulo de Gestión para Dto. de Servicios Móviles (Área de Material Rodante) del Ministerio Público Fiscal de la C.A.B.A.",
+            "description": "Desarrollo e implementación de módulo para los agentes del Dto. de Servicios Móviles en el cuál pueden gestionar vehículos, choferes, infracciones, mantenimientos e inspecciones. Adicionalmente se desarrolló la integración con el Módulo de Inventario y Servicio Técnico.",
+            "highlights": [
+                "Material Rodante",
+                "Automotor",
+                "Tarjetas de Registro",
+                "Integraciones"
+            ],
+            "keywords": [
+                "php",
+                "mysql"
+            ],
+            "startDate": "2016-09-01",
+            "endDate": "2016-10-31",
+            "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20117-16.pdf",
+            "roles": [
+                "Arquitecto",
+                "Desarrollador"
+            ],
+            "entity": "MPFCABA",
+            "type": "application"
+        },
+        {
+            "name": "Firma Electrónica en Sistemas de Gestión Judicial y Administrativa del Ministerio Público Fiscal de la C.A.B.A.",
+            "description": "Implementación de firma electrónica en Sistemas de Gestión Judicial y Administrativa. Desarrollo de componentes de firma y validación de huella digital mediante lectores.",
+            "highlights": [
+                "Firma Electrónica",
+                "Huella Digital",
+                "Microservicios",
+                "Integraciones"
+            ],
+            "keywords": [
+                "digitalsign",
+                "java",
+                "certificates",
+                "microservices"
+            ],
+            "startDate": "2013-11-01",
+            "endDate": "2014-01-31",
+            "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20481-13.pdf",
+            "roles": [
                 "Arquitecto",
                 "Desarrollador"
             ],
