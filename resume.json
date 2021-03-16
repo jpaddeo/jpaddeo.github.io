@@ -186,10 +186,11 @@
             "area": "Freelance",
             "studyType": "Cursos",
             "startDate": "2018-01-01",
-            "endDate": "2020-02-01",
+            "endDate": "2021-03-01",
             "courses": [
                 "Desarrollo web con Laravel 5.6, VueJS y MariaDB Mysql",
-                "GitLab CI: Pipelines, CI/CD and DevOps"
+                "GitLab CI: Pipelines, CI/CD and DevOps",
+                "Laravel API RESTful + Frontend VueJS"
             ]
         },
         {
