@@ -8,6 +8,7 @@
         "email": "juanpablo.addeo@gmail.com",
         "phone": "(54) 9 11-3163-8755",
         "url": "https://jpaddeo.github.io/",
+        "website": "https://jpaddeo.github.io/",
         "summary": "Soy Argentino, nacido en la Ciudad Autónoma de Buenos Aires, Argentina. Ingeniero en Sistemas de la Información recibido en la Facultad Regional de Buenos Aires pertenciente a la Universidad Tecnológica Nacional. Me apasiona la tecnología y el desarrollo de software. Desarrollo y diseño software desde que comencé a incursionar en mi carrera profesional. Trabajé en distintos proyectos con distintas tecnologías y en distintas compañías. Freelancer. Emprendedor.",
         "location": {
             "address": "Blanco Encalada 4765",
@@ -45,6 +46,7 @@
             "location": "Ciudad Autónoma de Buenos Aires, Argentina",
             "position": "Ingeniero en Sistemas de Información",
             "url": "https://www.mpfciudad.gob.ar",
+            "website": "https://www.mpfciudad.gob.ar",
             "startDate": "2018-08-01",
             "summary": "Titular del Dpto. de Investigación y Desarrollo Informático (DIyDI)",
             "highlights": [
@@ -61,6 +63,7 @@
             "location": "Ciudad Autónoma de Buenos Aires, Argentina",
             "position": "Líder de Desarrollo de Software",
             "url": "https://www.mpfciudad.gob.ar",
+            "website": "https://www.mpfciudad.gob.ar",
             "startDate": "2017-02-01",
             "endDate": "2018-07-31",
             "summary": "Líder en el Área de Gestión y Desarrollo de Ap. Informáticas perteneciente al Ministerio Público Fiscal de la C.A.B.A.",
@@ -76,6 +79,7 @@
             "location": "Ciudad Autónoma de Buenos Aires, Argentina",
             "position": "Analista Técnico y Desarrollador de Software",
             "url": "https://www.mpfciudad.gob.ar",
+            "website": "https://www.mpfciudad.gob.ar",
             "startDate": "2012-08-01",
             "endDate": "2017-01-31",
             "summary": "Analista técnico y desarrollador en el Dpto. de TI y Comunicaciones perteneciente al Minsiterio Público Fiscal de la C.A.B.A.",
@@ -89,6 +93,7 @@
             "location": "Ciudad Autónoma de Buenos Aires, Argentina",
             "position": "Desarrollador de Software",
             "url": "https://jpaddeo.github.io",
+            "website": "https://jpaddeo.github.io",
             "startDate": "2008-08-01",
             "summary": "Consultor Informático. Analista técnico y desarrollador de software. Artquitecto de software.",
             "highlights": [
@@ -105,6 +110,7 @@
             "location": "Ciudad Autónoma de Buenos Aires, Argentina",
             "position": "Desarrollador .NET y Sharepoint",
             "url": "https://baufest.com",
+            "website": "https://baufest.com",
             "startDate": "2010-05-01",
             "endDate": "2012-07-31",
             "summary": "Desarrollador .NET y Sharepoint en distintos clientes y proyectos",
@@ -120,6 +126,7 @@
             "location": "Ciudad Autónoma de Buenos Aires, Argentina",
             "position": "IT Specialist",
             "url": "https://baufest.com",
+            "website": "https://baufest.com",
             "startDate": "2009-09-01",
             "endDate": "2010-04-30",
             "summary": "Principalmente desarrollo y configurción de plataforma IBM Rational ClearQuest",
@@ -133,6 +140,7 @@
             "location": "Ciudad Autónoma de Buenos Aires, Argentina",
             "position": "Desarrollador de Aplicaciones",
             "url": "https://ibm.com",
+            "website": "https://ibm.com",
             "startDate": "2008-08-01",
             "endDate": "2009-09-30",
             "summary": "Plataforma IBM Lotus Domino para LATAM",
@@ -147,6 +155,7 @@
             "location": "Ciudad Autónoma de Buenos Aires, Argentina",
             "position": "Junior IT Specialist",
             "url": "http://www.e-nsx.com",
+            "website": "http://www.e-nsx.com",
             "startDate": "2007-06-01",
             "endDate": "2008-07-31",
             "summary": "Plataforma IBM Lotus Domino",
@@ -160,6 +169,7 @@
         {
             "institution": "Facultad Regional Buenos Aires, Universidad Tecnológica Nacional (UTN)",
             "url": "https://www.frba.utn.edu.ar",
+            "website": "https://www.frba.utn.edu.ar",
             "area": "Universitario",
             "studyType": "Ingeniero en Sistemas de la Información",
             "startDate": "2006-01-01",
@@ -173,6 +183,7 @@
         {
             "institution": "Linkedin Learning",
             "url": "https://www.linkedin.com/learning",
+            "website": "https://www.linkedin.com/learning",
             "area": "Freelance",
             "studyType": "Cursos",
             "startDate": "2021-01-01",
@@ -183,6 +194,7 @@
         {
             "institution": "Udemy",
             "url": "https://udemy.com",
+            "website": "https://udemy.com",
             "area": "Freelance",
             "studyType": "Cursos",
             "startDate": "2018-01-01",
@@ -196,6 +208,7 @@
         {
             "institution": "Educacion IT",
             "url": "https://www.educacionit.com/",
+            "website": "https://www.educacionit.com/",
             "area": "Freelance",
             "studyType": "Cursos",
             "startDate": "2018-02-01",
@@ -207,6 +220,7 @@
         {
             "institution": "Datalytics",
             "url": "https://www.datalytics.com/",
+            "website": "https://www.datalytics.com/",
             "area": "Freelance",
             "studyType": "Cursos",
             "startDate": "2015-09-01",
@@ -221,6 +235,7 @@
         {
             "institution": "CodeSchool",
             "url": "https://www.pluralsight.com/codeschool",
+            "website": "https://www.pluralsight.com/codeschool",
             "area": "Freelance",
             "studyType": "Cursos",
             "startDate": "2015-03-01",
@@ -232,6 +247,7 @@
         {
             "institution": "ProcessMaker",
             "url": "https://www.processmaker.com/",
+            "website": "https://www.processmaker.com/",
             "area": "Freelance",
             "studyType": "Cursos",
             "startDate": "2013-12-01",
@@ -328,6 +344,7 @@
             "startDate": "2020-07-01",
             "endDate": "2020-09-30",
             "url": "https://meregalasunahora.org",
+            "website": "https://meregalasunahora.org",
             "roles": [
                 "Lider de proyecto",
                 "Arquitecto",
@@ -354,6 +371,7 @@
             "startDate": "2020-02-01",
             "endDate": "2020-03-31",
             "url": "https://denuncias.fiscalias.gob.ar/",
+            "website": "https://denuncias.fiscalias.gob.ar/",
             "roles": [
                 "Líder de proyecto",
                 "Arquitecto"
@@ -378,6 +396,7 @@
             "startDate": "2020-02-01",
             "endDate": "2020-03-31",
             "url": "https://mpfciudad.gob.ar",
+            "website": "https://mpfciudad.gob.ar",
             "roles": [
                 "Líder de proyecto",
                 "Arquitecto"
@@ -401,6 +420,7 @@
             "startDate": "2018-11-01",
             "endDate": "2019-01-31",
             "url": "https://apps.apple.com/ar/app/denuncias-mpf/id1446289355",
+            "website": "https://apps.apple.com/ar/app/denuncias-mpf/id1446289355",
             "roles": [
                 "Líder de proyecto",
                 "Arquitecto"
@@ -450,6 +470,7 @@
             "startDate": "2018-09-01",
             "endDate": "2018-10-31",
             "url": "https://play.google.com/store/apps/details?id=ar.gob.mpf.denunciasmob",
+            "website": "https://play.google.com/store/apps/details?id=ar.gob.mpf.denunciasmob",
             "roles": [
                 "Líder de proyecto",
                 "Arquitecto"
@@ -529,6 +550,7 @@
             "startDate": "2017-09-01",
             "endDate": "2017-11-30",
             "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20381-17.pdf",
+            "website": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20381-17.pdf",
             "roles": [
                 "Líder de proyecto",
                 "Arquitecto"
@@ -552,6 +574,7 @@
             "startDate": "2016-09-01",
             "endDate": "2016-10-31",
             "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20117-16.pdf",
+            "website": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20117-16.pdf",
             "roles": [
                 "Arquitecto",
                 "Desarrollador"
@@ -577,6 +600,7 @@
             "startDate": "2013-11-01",
             "endDate": "2014-01-31",
             "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20481-13.pdf",
+            "website": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20481-13.pdf",
             "roles": [
                 "Arquitecto",
                 "Desarrollador"
