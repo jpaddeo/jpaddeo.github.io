@@ -278,20 +278,22 @@
     "publications": [],
     "skills": [
         {
-            "name": "Desarrollador",
+            "name": "Desarrollador Fullstack",
             "level": "Senior",
             "keywords": [
                 "HTML",
                 "CSS",
+                "PHP",
+                "JavaScript",
+                "ReactJS",
+                "VueJS",
+                "NodeJS",
+                "AngularJS",
                 "Materialize",
                 "Bootstrap",
-                "PHP",
-                "AngularJS",
                 "Python",
-                "VueJS",
                 "Ionic",
                 "Java",
-                "Javascript",
                 "Shell script",
                 ".NET Core"
             ]
@@ -305,6 +307,7 @@
                 "Logstash",
                 "Filebeat",
                 "Microservicios / APIs",
+                "API REST",
                 "Gateways",
                 "Firebase",
                 "Keycloack",
