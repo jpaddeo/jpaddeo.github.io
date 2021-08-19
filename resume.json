@@ -1,620 +1,577 @@
 {
-    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-    "basics": {
-        "name": "Juan Pablo Addeo",
-        "label": "Ingeniero en Sistemas de Información",
-        "image": "https://media-exp1.licdn.com/dms/image/C5603AQEZvGXfGAdPiA/profile-displayphoto-shrink_800_800/0/1517683329338?e=1631750400&v=beta&t=3Xp0I9hNYMwfzDzj8fZEg9csLBwHj3qX6Qaz_SvwLXw",
-        "picture": "https://media-exp1.licdn.com/dms/image/C5603AQEZvGXfGAdPiA/profile-displayphoto-shrink_800_800/0/1517683329338?e=1631750400&v=beta&t=3Xp0I9hNYMwfzDzj8fZEg9csLBwHj3qX6Qaz_SvwLXw",
-        "email": "juanpablo.addeo@gmail.com",
-        "phone": "(54) 9 11-3163-8755",
-        "url": "https://jpaddeo.github.io/",
-        "website": "https://jpaddeo.github.io/",
-        "summary": "Soy Argentino, nacido en la Ciudad Autónoma de Buenos Aires, Argentina. Ingeniero en Sistemas de la Información recibido en la Facultad Regional de Buenos Aires pertenciente a la Universidad Tecnológica Nacional. Me apasiona la tecnología y el desarrollo de software. Desarrollo y diseño software desde que comencé a incursionar en mi carrera profesional. Trabajé en distintos proyectos con distintas tecnologías y en distintas compañías. Freelancer. Emprendedor.",
-        "location": {
-            "address": "Blanco Encalada 4765",
-            "postalCode": "1431",
-            "city": "Ciudad Autónoma de Buenos Aires",
-            "countryCode": "AR",
-            "region": "Buenos Aires"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "jpaddeo",
-                "url": "https://twitter.com/jpaddeo"
-            },
-            {
-                "network": "Github",
-                "username": "jpaddeo",
-                "url": "https://github.com/jpaddeo/"
-            },
-            {
-                "network": "Gitlab",
-                "username": "jpaddeo",
-                "url": "https://gitlab.com/jpaddeo/"
-            },
-            {
-                "network": "Linkedin",
-                "username": "juanpabloaddeo",
-                "url": "https://www.linkedin.com/in/juanpabloaddeo/"
-            }
-        ]
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Juan Pablo Addeo",
+    "label": "Ingeniero en Sistemas de Información",
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQEZvGXfGAdPiA/profile-displayphoto-shrink_800_800/0/1517683329338?e=1631750400&v=beta&t=3Xp0I9hNYMwfzDzj8fZEg9csLBwHj3qX6Qaz_SvwLXw",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQEZvGXfGAdPiA/profile-displayphoto-shrink_800_800/0/1517683329338?e=1631750400&v=beta&t=3Xp0I9hNYMwfzDzj8fZEg9csLBwHj3qX6Qaz_SvwLXw",
+    "email": "juanpablo.addeo@gmail.com",
+    "phone": "(54) 9 11-3163-8755",
+    "url": "https://jpaddeo.github.io/",
+    "website": "https://jpaddeo.github.io/",
+    "summary": "Soy Argentino, nacido en la Ciudad Autónoma de Buenos Aires, Argentina. Ingeniero en Sistemas de la Información recibido en la Facultad Regional de Buenos Aires pertenciente a la Universidad Tecnológica Nacional. Me apasiona la tecnología y el desarrollo de software. Desarrollo y diseño software desde que comencé a incursionar en mi carrera profesional. Trabajé en distintos proyectos con distintas tecnologías y en distintas compañías. Freelancer. Emprendedor.",
+    "location": {
+      "address": "Blanco Encalada 4765",
+      "postalCode": "1431",
+      "city": "Ciudad Autónoma de Buenos Aires",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
     },
-    "work": [
-        {
-            "company": "Ministerio Público Fiscal de la C.A.B.A.",
-            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-            "position": "Ingeniero en Sistemas de Información",
-            "url": "https://www.mpfciudad.gob.ar",
-            "website": "https://www.mpfciudad.gob.ar",
-            "startDate": "2018-08-01",
-            "summary": "Titular del Dpto. de Investigación y Desarrollo Informático (DIyDI)",
-            "highlights": [
-                "Administración de recursos y proyectos del DIyDI",
-                "Diseño de software",
-                "Desarrollo de software",
-                "Integraciones (microservicios / APIs)",
-                "Implementaciones y administración de servidores",
-                "Capacitación y coaching"
-            ]
-        },
-        {
-            "company": "Ministerio Público Fiscal de la C.A.B.A.",
-            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-            "position": "Líder de Desarrollo de Software",
-            "url": "https://www.mpfciudad.gob.ar",
-            "website": "https://www.mpfciudad.gob.ar",
-            "startDate": "2017-02-01",
-            "endDate": "2018-07-31",
-            "summary": "Líder en el Área de Gestión y Desarrollo de Ap. Informáticas perteneciente al Ministerio Público Fiscal de la C.A.B.A.",
-            "highlights": [
-                "Administración de proyectos.",
-                "Análisis técnico.",
-                "Diseño de software.",
-                "Capacitación y coaching de recursos IT."
-            ]
-        },
-        {
-            "company": "Ministerio Público Fiscal de la C.A.B.A.",
-            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-            "position": "Analista Técnico y Desarrollador de Software",
-            "url": "https://www.mpfciudad.gob.ar",
-            "website": "https://www.mpfciudad.gob.ar",
-            "startDate": "2012-08-01",
-            "endDate": "2017-01-31",
-            "summary": "Analista técnico y desarrollador en el Dpto. de TI y Comunicaciones perteneciente al Minsiterio Público Fiscal de la C.A.B.A.",
-            "highlights": [
-                "Análisis técnico y desarrollo de software..",
-                "Diseño de BD."
-            ]
-        },
-        {
-            "company": "Freelance",
-            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-            "position": "Desarrollador de Software",
-            "url": "https://jpaddeo.github.io",
-            "website": "https://jpaddeo.github.io",
-            "startDate": "2008-08-01",
-            "summary": "Consultor Informático. Analista técnico y desarrollador de software. Artquitecto de software.",
-            "highlights": [
-                "Consultoría TI",
-                "Diseño y desarrollo de software",
-                "Diseño y desarrollo móvil",
-                "Adminsitración de servidores",
-                "Integraciones",
-                "Sitios web"
-            ]
-        },
-        {
-            "company": "Baufest",
-            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-            "position": "Desarrollador .NET y Sharepoint",
-            "url": "https://baufest.com",
-            "website": "https://baufest.com",
-            "startDate": "2010-05-01",
-            "endDate": "2012-07-31",
-            "summary": "Desarrollador .NET y Sharepoint en distintos clientes y proyectos",
-            "highlights": [
-                "Configuración, Implementación y Desarrollo de plataforma MOSS 2007",
-                "Desarrollo de formularios en Infopath 2007 y 2010",
-                "Desarrollo de workflows en Nintex 2007 y 2010",
-                "Desarrollo de integraciones .NET para distintas plataformas (ClearQuest, ActiveDirectory, CA USD, Sharepoint)"
-            ]
-        },
-        {
-            "company": "Baufest",
-            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-            "position": "IT Specialist",
-            "url": "https://baufest.com",
-            "website": "https://baufest.com",
-            "startDate": "2009-09-01",
-            "endDate": "2010-04-30",
-            "summary": "Principalmente desarrollo y configurción de plataforma IBM Rational ClearQuest",
-            "highlights": [
-                "Configuración, Implementación y Desarrollo de plataforma IBM Rational ClearQuest",
-                "Desarrollo de VBScript y SQL"
-            ]
-        },
-        {
-            "company": "IBM",
-            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-            "position": "Desarrollador de Aplicaciones",
-            "url": "https://ibm.com",
-            "website": "https://ibm.com",
-            "startDate": "2008-08-01",
-            "endDate": "2009-09-30",
-            "summary": "Plataforma IBM Lotus Domino para LATAM",
-            "highlights": [
-                "Configuración, Implementación y Desarrollo de plataforma IBM Lotus Domino",
-                "Soporte a usuarios locales",
-                "HR Access LATAM Account"
-            ]
-        },
-        {
-            "company": "NSX S.A.",
-            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-            "position": "Junior IT Specialist",
-            "url": "http://www.e-nsx.com",
-            "website": "http://www.e-nsx.com",
-            "startDate": "2007-06-01",
-            "endDate": "2008-07-31",
-            "summary": "Plataforma IBM Lotus Domino",
-            "highlights": [
-                "Configuración, Implementación y Desarrollo de plataforma IBM Lotus Domino",
-                "Soporte a usuarios locales"
-            ]
-        }
-    ],
-    "education": [
-        {
-            "institution": "Facultad Regional Buenos Aires, Universidad Tecnológica Nacional (UTN)",
-            "url": "https://www.frba.utn.edu.ar",
-            "website": "https://www.frba.utn.edu.ar",
-            "area": "Universitario",
-            "studyType": "Ingeniero en Sistemas de la Información",
-            "startDate": "2006-01-01",
-            "endDate": "2018-08-01",
-            "courses": [
-                "SL-210 JAVA Programming",
-                "SL-275 JAVA Programming",
-                "Professional Webmaster"
-            ]
-        },
-        {
-            "institution": "Linkedin Learning",
-            "url": "https://www.linkedin.com/learning",
-            "website": "https://www.linkedin.com/learning",
-            "area": "Freelance",
-            "studyType": "Cursos",
-            "startDate": "2021-01-01",
-            "courses": [
-                "JavaScript escencial"
-            ]
-        },
-        {
-            "institution": "Udemy",
-            "url": "https://udemy.com",
-            "website": "https://udemy.com",
-            "area": "Freelance",
-            "studyType": "Cursos",
-            "startDate": "2018-01-01",
-            "endDate": "2021-03-01",
-            "courses": [
-                "Desarrollo web con Laravel 5.6, VueJS y MariaDB Mysql",
-                "GitLab CI: Pipelines, CI/CD and DevOps",
-                "Laravel API RESTful + Frontend VueJS"
-            ]
-        },
-        {
-            "institution": "Educacion IT",
-            "url": "https://www.educacionit.com/",
-            "website": "https://www.educacionit.com/",
-            "area": "Freelance",
-            "studyType": "Cursos",
-            "startDate": "2018-02-01",
-            "endDate": "2018-03-01",
-            "courses": [
-                "PHP MVC Laravel"
-            ]
-        },
-        {
-            "institution": "Datalytics",
-            "url": "https://www.datalytics.com/",
-            "website": "https://www.datalytics.com/",
-            "area": "Freelance",
-            "studyType": "Cursos",
-            "startDate": "2015-09-01",
-            "endDate": "2015-11-01",
-            "courses": [
-                "Instalación y Administración de Plataforma Pentaho",
-                "Integración de datos con Pentaho Data Integration",
-                "Dashboard con Ctools y Dashboard Editor",
-                "Pentaho Reports Designer y Metadata"
-            ]
-        },
-        {
-            "institution": "CodeSchool",
-            "url": "https://www.pluralsight.com/codeschool",
-            "website": "https://www.pluralsight.com/codeschool",
-            "area": "Freelance",
-            "studyType": "Cursos",
-            "startDate": "2015-03-01",
-            "endDate": "2015-04-01",
-            "courses": [
-                "Shaping Up with AngularJS"
-            ]
-        },
-        {
-            "institution": "ProcessMaker",
-            "url": "https://www.processmaker.com/",
-            "website": "https://www.processmaker.com/",
-            "area": "Freelance",
-            "studyType": "Cursos",
-            "startDate": "2013-12-01",
-            "endDate": "2014-02-01",
-            "courses": [
-                "Processmaker Developer Course",
-                "Processmaker Advanced Architect Training"
-            ]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Me Regalas Una Hora",
-            "position": "Consultor Externo",
-            "website": "https://meregalasunahora.org/",
-            "startDate": "2020-07-01",
-            "endDate": "2020-09-30",
-            "summary": "Desarrollo de implementación de CMS y sitio web. Adquisición y administración de cuenta empresarial (meregalasunahora.org)",
-            "highlights": [
-                "Migración de servidor y servicio hosting",
-                "Coordinación e implementación de diseños / mockups y renders",
-                "Desarrollo backend (CMS) y frontend del sitio web nuevo",
-                "Integraciones con Google Calendar y Leaflet GIS"
-            ]
-        }
-    ],
-    "awards": [],
-    "publications": [],
-    "skills": [
-        {
-            "name": "Desarrollador Fullstack",
-            "level": "Senior",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "PHP",
-                "JavaScript",
-                "ReactJS",
-                "VueJS",
-                "NodeJS",
-                "AngularJS",
-                "Materialize",
-                "Bootstrap",
-                "Python",
-                "Ionic",
-                "Java",
-                "Shell script",
-                ".NET Core"
-            ]
-        },
-        {
-            "name": "Arquitecto",
-            "level": "Semi Senior",
-            "keywords": [
-                "Elasticsearch",
-                "Kibana",
-                "Logstash",
-                "Filebeat",
-                "Microservicios / APIs",
-                "API REST",
-                "Gateways",
-                "Firebase",
-                "Keycloack",
-                "Server admin",
-                "Docker",
-                "CI/CD"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "Español",
-            "fluency": "nativo"
-        },
-        {
-            "language": "Inglés",
-            "fluency": "intermedio"
-        }
-    ],
-    "interests": [],
-    "references": [],
-    "projects": [
-        {
-            "name": "¿Me Regalás Una Hora?",
-            "description": "Renovación Imagen Institucional",
-            "highlights": [
-                "Desarrollo de CMS Laravel",
-                "Desarrollo de frontend (maquetado, blade views + AngularJS)",
-                "Integración Leaflet GIS",
-                "Integración Google Calendar"
-            ],
-            "keywords": [
-                "CMS",
-                "Laravel",
-                "SEO"
-            ],
-            "startDate": "2020-07-01",
-            "endDate": "2020-09-30",
-            "url": "https://meregalasunahora.org",
-            "website": "https://meregalasunahora.org",
-            "roles": [
-                "Lider de proyecto",
-                "Arquitecto",
-                "Desarrollador",
-                "Analista funcional"
-            ],
-            "entity": "MRUH",
-            "type": "application"
-        },
-        {
-            "name": "Aplicación Web Denuncias MPF",
-            "description": "Permite a cualquier ciudadano poder denunciar delitos tipificados y otros de forma anónima o identificada. Consulta y seguimiento de denuncias realizadas. Consulta de información útil y de autoridades (comisarías, centros de denuncias: UODs, fiscalías).",
-            "highlights": [
-                "Progessive Web Application desarrollada con Ionic + angularJS",
-                "Servicios REST para integración con Sistema de Expedientes Judiciales (KIWI)"
-            ],
-            "keywords": [
-                "pwa",
-                "rest",
-                "angularJS",
-                "ionic",
-                "denuncias"
-            ],
-            "startDate": "2020-02-01",
-            "endDate": "2020-03-31",
-            "url": "https://denuncias.fiscalias.gob.ar/",
-            "website": "https://denuncias.fiscalias.gob.ar/",
-            "roles": [
-                "Líder de proyecto",
-                "Arquitecto"
-            ],
-            "entity": "MPFCABA",
-            "type": "application"
-        },
-        {
-            "name": "Sitio institucional Ministerio Público Fiscal de la C.A.B.A.",
-            "description": "Nuevo sitio institucional del MPFCABA",
-            "highlights": [
-                "Desarrollo de Content Management System (CMS)",
-                "Diseño y desarrollo de Sitio Web"
-            ],
-            "keywords": [
-                "laravel",
-                "blade",
-                "usig",
-                "elasticsearch",
-                "html5"
-            ],
-            "startDate": "2020-02-01",
-            "endDate": "2020-03-31",
-            "url": "https://mpfciudad.gob.ar",
-            "website": "https://mpfciudad.gob.ar",
-            "roles": [
-                "Líder de proyecto",
-                "Arquitecto"
-            ],
-            "entity": "MPFCABA",
-            "type": "application"
-        },
-        {
-            "name": "Aplicación iOS de Denuncias para el Ministerio Público Fiscal de la C.A.B.A.",
-            "description": "Aplicación de celulares para dispositivos Apple que le permite al ciudadano denunciar delitos y contravenciones ante el MPFCABA",
-            "highlights": [
-                "Desarrollo de aplicación móvil"
-            ],
-            "keywords": [
-                "ionic",
-                "ios",
-                "microservices",
-                "googlemaps",
-                "html5"
-            ],
-            "startDate": "2018-11-01",
-            "endDate": "2019-01-31",
-            "url": "https://apps.apple.com/ar/app/denuncias-mpf/id1446289355",
-            "website": "https://apps.apple.com/ar/app/denuncias-mpf/id1446289355",
-            "roles": [
-                "Líder de proyecto",
-                "Arquitecto"
-            ],
-            "entity": "MPFCABA",
-            "type": "application"
-        },
-        {
-            "name": "Implementación de Interfaz entre el Sistema Informático KIWI y servicios de RENAPER",
-            "description": "Desarrollo e implementación de interfaz de comunicación entre Sistema Informático KIWI y servicios de RENAPER (Registro Nacional de las Personas) para la obtención de información nominal de los actores partícipes en un expediente digital.",
-            "highlights": [
-                "Desarrollo de interfaces",
-                "Proxies + gateways",
-                "Microservicios",
-                "Integraciones"
-            ],
-            "keywords": [
-                "php",
-                "proxies",
-                "gateways",
-                "microservices",
-                "renaper"
-            ],
-            "startDate": "2018-10-01",
-            "endDate": "2018-11-30",
-            "roles": [
-                "Líder de proyecto",
-                "Arquitecto",
-                "Desarrollador"
-            ],
-            "entity": "MPFCABA",
-            "type": "application"
-        },
-        {
-            "name": "Aplicación Android de Denuncias para el Ministerio Público Fiscal de la C.A.B.A.",
-            "description": "Aplicación de celulares para dispositivos Apple que le permite al ciudadano denunciar delitos y contravenciones ante el MPFCABA",
-            "highlights": [
-                "Desarrollo de aplicación móvil"
-            ],
-            "keywords": [
-                "ionic",
-                "android",
-                "microservices",
-                "googlemaps",
-                "html5"
-            ],
-            "startDate": "2018-09-01",
-            "endDate": "2018-10-31",
-            "url": "https://play.google.com/store/apps/details?id=ar.gob.mpf.denunciasmob",
-            "website": "https://play.google.com/store/apps/details?id=ar.gob.mpf.denunciasmob",
-            "roles": [
-                "Líder de proyecto",
-                "Arquitecto"
-            ],
-            "entity": "MPFCABA",
-            "type": "application"
-        },
-        {
-            "name": "Implementación de Interfaz entre el Sistema Informático KIWI y servicios de RNR",
-            "description": "Desarrollo e implementación de interfaz de comunicación entre Sistema Informático KIWI y servicios de RNR (Registro Nacional de Reincidencia) para la obtención de antecedentes de los actores partícipes en un expediente digital.",
-            "highlights": [
-                "Desarrollo de interfaces",
-                "Proxies + gateways",
-                "Microservicios",
-                "Integraciones"
-            ],
-            "keywords": [
-                "php",
-                "proxies",
-                "gateways",
-                "microservices",
-                "reincidencias"
-            ],
-            "startDate": "2018-09-01",
-            "endDate": "2018-10-31",
-            "roles": [
-                "Líder de proyecto",
-                "Arquitecto",
-                "Desarrollador"
-            ],
-            "entity": "MPFCABA",
-            "type": "application"
-        },
-        {
-            "name": "Implementación de API REST del Ministerio Público Fiscal de la C.A.B.A.",
-            "description": "Para facilitar el acceso a información interna proporcionada por los sistemas y aplicaciones del Ministerio Público Fiscal de la C.A.B.A., se ha desarrollado concentrador de servicios REST para su consumo. Estos servicios se alinean a los estándares especificados por la Dirección Nacional de Servicios Digitales del Ministerio de Modernización.",
-            "highlights": [
-                "Desarrollo de APIs",
-                "Proxies + gateways",
-                "Microservicios",
-                "Integraciones"
-            ],
-            "keywords": [
-                "laravel",
-                "api",
-                "php",
-                "proxies",
-                "gateways",
-                "microservices"
-            ],
-            "startDate": "2018-08-01",
-            "endDate": "2018-09-30",
-            "roles": [
-                "Líder de proyecto",
-                "Arquitecto",
-                "Desarrollador"
-            ],
-            "entity": "MPFCABA",
-            "type": "application"
-        },
-        {
-            "name": "Desarrollo e Implementación de Red de Datos Vinculados del Ministerio Público Fiscal de la C.A.B.A.",
-            "description": "Herramienta que permite desplegar relaciones / conexiones en forma de grafos entre los distintos nodos de información contenidos en una o varias fuentes de datos.",
-            "highlights": [
-                "Red de Datos",
-                "Vinculaciones",
-                "ETL",
-                "Datamining",
-                "Integraciones"
-            ],
-            "keywords": [
-                "neo4j",
-                "angularJS",
-                "popoto",
-                "mysql"
-            ],
-            "startDate": "2017-09-01",
-            "endDate": "2017-11-30",
-            "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20381-17.pdf",
-            "website": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20381-17.pdf",
-            "roles": [
-                "Líder de proyecto",
-                "Arquitecto"
-            ],
-            "entity": "MPFCABA",
-            "type": "application"
-        },
-        {
-            "name": "Desarrollo e Implementación de Módulo de Gestión para Dto. de Servicios Móviles (Área de Material Rodante) del Ministerio Público Fiscal de la C.A.B.A.",
-            "description": "Desarrollo e implementación de módulo para los agentes del Dto. de Servicios Móviles en el cuál pueden gestionar vehículos, choferes, infracciones, mantenimientos e inspecciones. Adicionalmente se desarrolló la integración con el Módulo de Inventario y Servicio Técnico.",
-            "highlights": [
-                "Material Rodante",
-                "Automotor",
-                "Tarjetas de Registro",
-                "Integraciones"
-            ],
-            "keywords": [
-                "php",
-                "mysql"
-            ],
-            "startDate": "2016-09-01",
-            "endDate": "2016-10-31",
-            "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20117-16.pdf",
-            "website": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20117-16.pdf",
-            "roles": [
-                "Arquitecto",
-                "Desarrollador"
-            ],
-            "entity": "MPFCABA",
-            "type": "application"
-        },
-        {
-            "name": "Firma Electrónica en Sistemas de Gestión Judicial y Administrativa del Ministerio Público Fiscal de la C.A.B.A.",
-            "description": "Implementación de firma electrónica en Sistemas de Gestión Judicial y Administrativa. Desarrollo de componentes de firma y validación de huella digital mediante lectores.",
-            "highlights": [
-                "Firma Electrónica",
-                "Huella Digital",
-                "Microservicios",
-                "Integraciones"
-            ],
-            "keywords": [
-                "digitalsign",
-                "java",
-                "certificates",
-                "microservices"
-            ],
-            "startDate": "2013-11-01",
-            "endDate": "2014-01-31",
-            "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20481-13.pdf",
-            "website": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20481-13.pdf",
-            "roles": [
-                "Arquitecto",
-                "Desarrollador"
-            ],
-            "entity": "MPFCABA",
-            "type": "application"
-        }
-    ],
-    "meta": {
-        "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-        "version": "v1.0.0",
-        "lastModified": "2020-01-11T11:00:00"
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jpaddeo",
+        "url": "https://twitter.com/jpaddeo"
+      },
+      {
+        "network": "Github",
+        "username": "jpaddeo",
+        "url": "https://github.com/jpaddeo/"
+      },
+      {
+        "network": "Gitlab",
+        "username": "jpaddeo",
+        "url": "https://gitlab.com/jpaddeo/"
+      },
+      {
+        "network": "Linkedin",
+        "username": "juanpabloaddeo",
+        "url": "https://www.linkedin.com/in/juanpabloaddeo/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Ministerio Público Fiscal de la C.A.B.A.",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Ingeniero en Sistemas de Información",
+      "url": "https://www.mpfciudad.gob.ar",
+      "website": "https://www.mpfciudad.gob.ar",
+      "startDate": "2018-08-01",
+      "summary": "Titular del Dpto. de Investigación y Desarrollo Informático (DIyDI)",
+      "highlights": [
+        "Administración de recursos y proyectos del DIyDI",
+        "Diseño de software",
+        "Desarrollo de software (Fullstack developer)",
+        "Integraciones (microservicios / APIs)",
+        "Implementaciones y administración de servidores",
+        "Capacitación y coaching"
+      ]
+    },
+    {
+      "company": "Ministerio Público Fiscal de la C.A.B.A.",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Líder de Desarrollo de Software",
+      "url": "https://www.mpfciudad.gob.ar",
+      "website": "https://www.mpfciudad.gob.ar",
+      "startDate": "2017-02-01",
+      "endDate": "2018-07-31",
+      "summary": "Líder en el Área de Gestión y Desarrollo de Ap. Informáticas perteneciente al Ministerio Público Fiscal de la C.A.B.A.",
+      "highlights": [
+        "Administración de proyectos.",
+        "Análisis técnico.",
+        "Diseño de software.",
+        "Capacitación y coaching de recursos IT."
+      ]
+    },
+    {
+      "company": "Ministerio Público Fiscal de la C.A.B.A.",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Analista Técnico y Desarrollador de Software",
+      "url": "https://www.mpfciudad.gob.ar",
+      "website": "https://www.mpfciudad.gob.ar",
+      "startDate": "2012-08-01",
+      "endDate": "2017-01-31",
+      "summary": "Analista técnico y desarrollador en el Dpto. de TI y Comunicaciones perteneciente al Minsiterio Público Fiscal de la C.A.B.A.",
+      "highlights": [
+        "Análisis técnico y desarrollo de software..",
+        "Diseño de BD."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Desarrollador de Software",
+      "url": "https://jpaddeo.github.io",
+      "website": "https://jpaddeo.github.io",
+      "startDate": "2008-08-01",
+      "summary": "Consultor Informático. Analista técnico y desarrollador de software. Artquitecto de software.",
+      "highlights": [
+        "Consultoría TI",
+        "Diseño y desarrollo de software",
+        "Diseño y desarrollo móvil",
+        "Adminsitración de servidores",
+        "Integraciones",
+        "Sitios web"
+      ]
+    },
+    {
+      "company": "Baufest",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Desarrollador .NET y Sharepoint",
+      "url": "https://baufest.com",
+      "website": "https://baufest.com",
+      "startDate": "2010-05-01",
+      "endDate": "2012-07-31",
+      "summary": "Desarrollador .NET y Sharepoint en distintos clientes y proyectos",
+      "highlights": [
+        "Configuración, Implementación y Desarrollo de plataforma MOSS 2007",
+        "Desarrollo de formularios en Infopath 2007 y 2010",
+        "Desarrollo de workflows en Nintex 2007 y 2010",
+        "Desarrollo de integraciones .NET para distintas plataformas (ClearQuest, ActiveDirectory, CA USD, Sharepoint)"
+      ]
+    },
+    {
+      "company": "Baufest",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "IT Specialist",
+      "url": "https://baufest.com",
+      "website": "https://baufest.com",
+      "startDate": "2009-09-01",
+      "endDate": "2010-04-30",
+      "summary": "Principalmente desarrollo y configurción de plataforma IBM Rational ClearQuest",
+      "highlights": [
+        "Configuración, Implementación y Desarrollo de plataforma IBM Rational ClearQuest",
+        "Desarrollo de VBScript y SQL"
+      ]
+    },
+    {
+      "company": "IBM",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Desarrollador de Aplicaciones",
+      "url": "https://ibm.com",
+      "website": "https://ibm.com",
+      "startDate": "2008-08-01",
+      "endDate": "2009-09-30",
+      "summary": "Plataforma IBM Lotus Domino para LATAM",
+      "highlights": [
+        "Configuración, Implementación y Desarrollo de plataforma IBM Lotus Domino",
+        "Soporte a usuarios locales",
+        "HR Access LATAM Account"
+      ]
+    },
+    {
+      "company": "NSX S.A.",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Junior IT Specialist",
+      "url": "http://www.e-nsx.com",
+      "website": "http://www.e-nsx.com",
+      "startDate": "2007-06-01",
+      "endDate": "2008-07-31",
+      "summary": "Plataforma IBM Lotus Domino",
+      "highlights": [
+        "Configuración, Implementación y Desarrollo de plataforma IBM Lotus Domino",
+        "Soporte a usuarios locales"
+      ]
     }
+  ],
+  "education": [
+    {
+      "institution": "Facultad Regional Buenos Aires, Universidad Tecnológica Nacional (UTN)",
+      "url": "https://www.frba.utn.edu.ar",
+      "website": "https://www.frba.utn.edu.ar",
+      "area": "Universitario",
+      "studyType": "Ingeniero en Sistemas de la Información",
+      "startDate": "2006-01-01",
+      "endDate": "2018-08-01",
+      "courses": [
+        "SL-210 JAVA Programming",
+        "SL-275 JAVA Programming",
+        "Professional Webmaster"
+      ]
+    },
+    {
+      "institution": "Linkedin Learning",
+      "url": "https://www.linkedin.com/learning",
+      "website": "https://www.linkedin.com/learning",
+      "area": "Freelance",
+      "studyType": "Cursos",
+      "startDate": "2021-01-01",
+      "courses": ["JavaScript escencial"]
+    },
+    {
+      "institution": "Udemy",
+      "url": "https://udemy.com",
+      "website": "https://udemy.com",
+      "area": "Freelance",
+      "studyType": "Cursos",
+      "startDate": "2018-01-01",
+      "endDate": "2021-03-01",
+      "courses": [
+        "Desarrollo web con Laravel 5.6, VueJS y MariaDB Mysql",
+        "GitLab CI: Pipelines, CI/CD and DevOps",
+        "Laravel API RESTful + Frontend VueJS"
+      ]
+    },
+    {
+      "institution": "Educacion IT",
+      "url": "https://www.educacionit.com/",
+      "website": "https://www.educacionit.com/",
+      "area": "Freelance",
+      "studyType": "Cursos",
+      "startDate": "2018-02-01",
+      "endDate": "2018-03-01",
+      "courses": ["PHP MVC Laravel"]
+    },
+    {
+      "institution": "Datalytics",
+      "url": "https://www.datalytics.com/",
+      "website": "https://www.datalytics.com/",
+      "area": "Freelance",
+      "studyType": "Cursos",
+      "startDate": "2015-09-01",
+      "endDate": "2015-11-01",
+      "courses": [
+        "Instalación y Administración de Plataforma Pentaho",
+        "Integración de datos con Pentaho Data Integration",
+        "Dashboard con Ctools y Dashboard Editor",
+        "Pentaho Reports Designer y Metadata"
+      ]
+    },
+    {
+      "institution": "CodeSchool",
+      "url": "https://www.pluralsight.com/codeschool",
+      "website": "https://www.pluralsight.com/codeschool",
+      "area": "Freelance",
+      "studyType": "Cursos",
+      "startDate": "2015-03-01",
+      "endDate": "2015-04-01",
+      "courses": ["Shaping Up with AngularJS"]
+    },
+    {
+      "institution": "ProcessMaker",
+      "url": "https://www.processmaker.com/",
+      "website": "https://www.processmaker.com/",
+      "area": "Freelance",
+      "studyType": "Cursos",
+      "startDate": "2013-12-01",
+      "endDate": "2014-02-01",
+      "courses": [
+        "Processmaker Developer Course",
+        "Processmaker Advanced Architect Training"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Me Regalas Una Hora",
+      "position": "Consultor Externo",
+      "website": "https://meregalasunahora.org/",
+      "startDate": "2020-07-01",
+      "endDate": "2020-09-30",
+      "summary": "Desarrollo de implementación de CMS y sitio web. Adquisición y administración de cuenta empresarial (meregalasunahora.org)",
+      "highlights": [
+        "Migración de servidor y servicio hosting",
+        "Coordinación e implementación de diseños / mockups y renders",
+        "Desarrollo backend (CMS) y frontend del sitio web nuevo",
+        "Integraciones con Google Calendar y Leaflet GIS"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Desarrollador Fullstack",
+      "level": "Senior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "JavaScript",
+        "ReactJS",
+        "React Native",
+        "VueJS",
+        "NodeJS",
+        "AngularJS",
+        "Materialize",
+        "Bootstrap",
+        "Python",
+        "Ionic",
+        "Java",
+        "Shell script",
+        ".NET Core",
+        "MySql",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Arquitecto",
+      "level": "Semi Senior",
+      "keywords": [
+        "Elasticsearch",
+        "Kibana",
+        "Logstash",
+        "Filebeat",
+        "Microservicios / APIs",
+        "API REST",
+        "Gateways",
+        "Firebase",
+        "Keycloack",
+        "Server admin",
+        "Docker",
+        "Portainer",
+        "CI/CD"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "intermedio"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Declaraciones Juradas MPFCIUDAD",
+      "description": "Sistema de presentación de Declaraciones Juradas Patrimoniales para magistrados del Ministerio Público Fiscal de la C.A.B.A.",
+      "highlights": ["Backend (Lumen)", "Frontend (ReactJS)", "DB (MongoDB)"],
+      "keywords": ["reactjs", "lumen", "mongodb", "microservices"],
+      "startDate": "2021-05-30",
+      "endDate": "2021-07-01",
+      "url": "https://ddjj.mpfciudad.gob.ar",
+      "website": "https://ddjj.mpfciudad.gob.ar",
+      "roles": ["Lider de proyecto", "Arquitecto", "Desarrollador Fullstack"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Firmador archivos MPFCIUDAD",
+      "description": "Firmador de archivos PDF para magistrados del Ministerio Público Fiscal de la C.A.B.A.",
+      "highlights": ["Backend (Lumen)", "Frontend (VueJS)", "DB (MySql)"],
+      "keywords": ["vuejs", "lumen", "mysql", "microservices"],
+      "startDate": "2021-02-01",
+      "endDate": "2021-03-31",
+      "url": "https://firmador.mpfciudad.gob.ar",
+      "website": "https://firmador.mpfciudad.gob.ar",
+      "roles": ["Lider de proyecto", "Arquitecto", "Desarrollador Fullstack"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "¿Me Regalás Una Hora?",
+      "description": "Renovación Imagen Institucional",
+      "highlights": [
+        "Desarrollo de CMS Laravel",
+        "Desarrollo de frontend (maquetado, blade views + AngularJS)",
+        "Integración Leaflet GIS",
+        "Integración Google Calendar"
+      ],
+      "keywords": ["cms", "laravel", "seo"],
+      "startDate": "2020-07-01",
+      "endDate": "2020-09-30",
+      "url": "https://meregalasunahora.org",
+      "website": "https://meregalasunahora.org",
+      "roles": [
+        "Lider de proyecto",
+        "Arquitecto",
+        "Desarrollador",
+        "Analista funcional"
+      ],
+      "entity": "MRUH",
+      "type": "application"
+    },
+    {
+      "name": "Campus Virtual Ministerio Público de la C.A.B.A.",
+      "description": "Sistema de gestión de cursos / capacitaciones (E-learning) para el Ministerio Público Fiscal de la C.A.B.A.",
+      "highlights": [
+        "Desarrollo de CMS Laravel",
+        "Desarrollo de frontend (maquetado, blade views)",
+        "Integración Youtube Videos"
+      ],
+      "keywords": ["cms", "laravel", "seo"],
+      "startDate": "2020-01-01",
+      "endDate": "2020-02-28",
+      "url": "https://capacitacion.mpfciudad.gob.ar",
+      "website": "https://capacitacion.mpfciudad.gob.ar",
+      "roles": ["Lider de proyecto", "Arquitecto"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Aplicación Web Denuncias MPF",
+      "description": "Permite a cualquier ciudadano poder denunciar delitos tipificados y otros de forma anónima o identificada. Consulta y seguimiento de denuncias realizadas. Consulta de información útil y de autoridades (comisarías, centros de denuncias: UODs, fiscalías).",
+      "highlights": [
+        "Progessive Web Application desarrollada con Ionic + angularJS",
+        "Servicios REST para integración con Sistema de Expedientes Judiciales (KIWI)"
+      ],
+      "keywords": ["pwa", "rest", "angularJS", "ionic", "denuncias"],
+      "startDate": "2020-02-01",
+      "endDate": "2020-03-31",
+      "url": "https://denuncias.fiscalias.gob.ar/",
+      "website": "https://denuncias.fiscalias.gob.ar/",
+      "roles": ["Líder de proyecto", "Arquitecto"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Sitio institucional Ministerio Público Fiscal de la C.A.B.A.",
+      "description": "Nuevo sitio institucional del MPFCABA",
+      "highlights": [
+        "Desarrollo de Content Management System (CMS)",
+        "Diseño y desarrollo de Sitio Web"
+      ],
+      "keywords": ["laravel", "blade", "usig", "elasticsearch", "html5"],
+      "startDate": "2020-02-01",
+      "endDate": "2020-03-31",
+      "url": "https://mpfciudad.gob.ar",
+      "website": "https://mpfciudad.gob.ar",
+      "roles": ["Líder de proyecto", "Arquitecto"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Aplicación iOS de Denuncias para el Ministerio Público Fiscal de la C.A.B.A.",
+      "description": "Aplicación de celulares para dispositivos Apple que le permite al ciudadano denunciar delitos y contravenciones ante el MPFCABA",
+      "highlights": ["Desarrollo de aplicación móvil"],
+      "keywords": ["ionic", "ios", "microservices", "googlemaps", "html5"],
+      "startDate": "2018-11-01",
+      "endDate": "2019-01-31",
+      "url": "https://apps.apple.com/ar/app/denuncias-mpf/id1446289355",
+      "website": "https://apps.apple.com/ar/app/denuncias-mpf/id1446289355",
+      "roles": ["Líder de proyecto", "Arquitecto"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Implementación de Interfaz entre el Sistema Informático KIWI y servicios de RENAPER",
+      "description": "Desarrollo e implementación de interfaz de comunicación entre Sistema Informático KIWI y servicios de RENAPER (Registro Nacional de las Personas) para la obtención de información nominal de los actores partícipes en un expediente digital.",
+      "highlights": [
+        "Desarrollo de interfaces",
+        "Proxies + gateways",
+        "Microservicios",
+        "Integraciones"
+      ],
+      "keywords": ["php", "proxies", "gateways", "microservices", "renaper"],
+      "startDate": "2018-10-01",
+      "endDate": "2018-11-30",
+      "roles": ["Líder de proyecto", "Arquitecto", "Desarrollador"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Aplicación Android de Denuncias para el Ministerio Público Fiscal de la C.A.B.A.",
+      "description": "Aplicación de celulares para dispositivos Apple que le permite al ciudadano denunciar delitos y contravenciones ante el MPFCABA",
+      "highlights": ["Desarrollo de aplicación móvil"],
+      "keywords": ["ionic", "android", "microservices", "googlemaps", "html5"],
+      "startDate": "2018-09-01",
+      "endDate": "2018-10-31",
+      "url": "https://play.google.com/store/apps/details?id=ar.gob.mpf.denunciasmob",
+      "website": "https://play.google.com/store/apps/details?id=ar.gob.mpf.denunciasmob",
+      "roles": ["Líder de proyecto", "Arquitecto"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Implementación de Interfaz entre el Sistema Informático KIWI y servicios de RNR",
+      "description": "Desarrollo e implementación de interfaz de comunicación entre Sistema Informático KIWI y servicios de RNR (Registro Nacional de Reincidencia) para la obtención de antecedentes de los actores partícipes en un expediente digital.",
+      "highlights": [
+        "Desarrollo de interfaces",
+        "Proxies + gateways",
+        "Microservicios",
+        "Integraciones"
+      ],
+      "keywords": [
+        "php",
+        "proxies",
+        "gateways",
+        "microservices",
+        "reincidencias"
+      ],
+      "startDate": "2018-09-01",
+      "endDate": "2018-10-31",
+      "roles": ["Líder de proyecto", "Arquitecto", "Desarrollador"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Implementación de API REST del Ministerio Público Fiscal de la C.A.B.A.",
+      "description": "Para facilitar el acceso a información interna proporcionada por los sistemas y aplicaciones del Ministerio Público Fiscal de la C.A.B.A., se ha desarrollado concentrador de servicios REST para su consumo. Estos servicios se alinean a los estándares especificados por la Dirección Nacional de Servicios Digitales del Ministerio de Modernización.",
+      "highlights": [
+        "Desarrollo de APIs",
+        "Proxies + gateways",
+        "Microservicios",
+        "Integraciones"
+      ],
+      "keywords": [
+        "laravel",
+        "api",
+        "php",
+        "proxies",
+        "gateways",
+        "microservices"
+      ],
+      "startDate": "2018-08-01",
+      "endDate": "2018-09-30",
+      "roles": ["Líder de proyecto", "Arquitecto", "Desarrollador"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Desarrollo e Implementación de Red de Datos Vinculados del Ministerio Público Fiscal de la C.A.B.A.",
+      "description": "Herramienta que permite desplegar relaciones / conexiones en forma de grafos entre los distintos nodos de información contenidos en una o varias fuentes de datos.",
+      "highlights": [
+        "Red de Datos",
+        "Vinculaciones",
+        "ETL",
+        "Datamining",
+        "Integraciones"
+      ],
+      "keywords": ["neo4j", "angularJS", "popoto", "mysql"],
+      "startDate": "2017-09-01",
+      "endDate": "2017-11-30",
+      "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20381-17.pdf",
+      "website": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20381-17.pdf",
+      "roles": ["Líder de proyecto", "Arquitecto"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Desarrollo e Implementación de Módulo de Gestión para Dto. de Servicios Móviles (Área de Material Rodante) del Ministerio Público Fiscal de la C.A.B.A.",
+      "description": "Desarrollo e implementación de módulo para los agentes del Dto. de Servicios Móviles en el cuál pueden gestionar vehículos, choferes, infracciones, mantenimientos e inspecciones. Adicionalmente se desarrolló la integración con el Módulo de Inventario y Servicio Técnico.",
+      "highlights": [
+        "Material Rodante",
+        "Automotor",
+        "Tarjetas de Registro",
+        "Integraciones"
+      ],
+      "keywords": ["php", "mysql"],
+      "startDate": "2016-09-01",
+      "endDate": "2016-10-31",
+      "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20117-16.pdf",
+      "website": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20117-16.pdf",
+      "roles": ["Arquitecto", "Desarrollador"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Firma Electrónica en Sistemas de Gestión Judicial y Administrativa del Ministerio Público Fiscal de la C.A.B.A.",
+      "description": "Implementación de firma electrónica en Sistemas de Gestión Judicial y Administrativa. Desarrollo de componentes de firma y validación de huella digital mediante lectores.",
+      "highlights": [
+        "Firma Electrónica",
+        "Huella Digital",
+        "Microservicios",
+        "Integraciones"
+      ],
+      "keywords": ["digitalsign", "java", "certificates", "microservices"],
+      "startDate": "2013-11-01",
+      "endDate": "2014-01-31",
+      "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20481-13.pdf",
+      "website": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20481-13.pdf",
+      "roles": ["Arquitecto", "Desarrollador"],
+      "entity": "MPFCABA",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2020-01-11T11:00:00"
+  }
 }
