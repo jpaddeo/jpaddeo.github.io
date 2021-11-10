@@ -3,8 +3,8 @@
   "basics": {
     "name": "Juan Pablo Addeo",
     "label": "Ingeniero en Sistemas de Información",
-    "image": "https://media-exp1.licdn.com/dms/image/C5603AQEZvGXfGAdPiA/profile-displayphoto-shrink_800_800/0/1517683329338?e=1631750400&v=beta&t=3Xp0I9hNYMwfzDzj8fZEg9csLBwHj3qX6Qaz_SvwLXw",
-    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQEZvGXfGAdPiA/profile-displayphoto-shrink_800_800/0/1517683329338?e=1631750400&v=beta&t=3Xp0I9hNYMwfzDzj8fZEg9csLBwHj3qX6Qaz_SvwLXw",
+    "image": "https://avatars.githubusercontent.com/u/3083587?v=4",
+    "picture": "https://avatars.githubusercontent.com/u/3083587?v=4",
     "email": "juanpablo.addeo@gmail.com",
     "phone": "(54) 9 11-3163-8755",
     "url": "https://jpaddeo.github.io/",
@@ -572,6 +572,6 @@
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2020-01-11T11:00:00"
+    "lastModified": "2021-11-10T09:45:00"
   }
 }
