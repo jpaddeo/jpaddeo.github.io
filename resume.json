@@ -7,9 +7,8 @@
     "picture": "https://avatars.githubusercontent.com/u/3083587?v=4",
     "email": "juanpablo.addeo@gmail.com",
     "phone": "(54) 9 11-3163-8755",
-    "url": "https://jpaddeo.github.io/",
-    "website": "https://jpaddeo.github.io/",
-    "summary": "Soy Argentino, nacido en la Ciudad Autónoma de Buenos Aires, Argentina. Ingeniero en Sistemas de la Información recibido en la Facultad Regional de Buenos Aires pertenciente a la Universidad Tecnológica Nacional. Me apasiona la tecnología y el desarrollo de software. Desarrollo y diseño software desde que comencé a incursionar en mi carrera profesional. Trabajé en distintos proyectos con distintas tecnologías y en distintas compañías. Freelancer. Emprendedor.",
+    "url": "https://jpaddeo.github.io/index_es.html",
+    "summary": "Soy Argentino, nacido en la Ciudad Autónoma de Buenos Aires. Ingeniero en Sistemas de la Información recibido en la Facultad Regional de Buenos Aires pertenciente a la Universidad Tecnológica Nacional. Me apasiona la tecnología y el desarrollo de software. Lo hago desde que comencé a incursionar en mi carrera profesional. Trabajé en distintos proyectos con distintas tecnologías y en distintas compañías. Freelancer. Emprendedor.",
     "location": {
       "address": "Blanco Encalada 4765",
       "postalCode": "1431",
@@ -398,7 +397,7 @@
       "name": "Aplicación Web Denuncias MPF",
       "description": "Permite a cualquier ciudadano poder denunciar delitos tipificados y otros de forma anónima o identificada. Consulta y seguimiento de denuncias realizadas. Consulta de información útil y de autoridades (comisarías, centros de denuncias: UODs, fiscalías).",
       "highlights": [
-        "Progessive Web Application desarrollada con Ionic + angularJS",
+        "Progressive Web Application desarrollada con Ionic + angularJS",
         "Servicios REST para integración con Sistema de Expedientes Judiciales (KIWI)"
       ],
       "keywords": ["pwa", "rest", "angularJS", "ionic", "denuncias"],
@@ -570,7 +569,7 @@
     }
   ],
   "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "canonical": "https://raw.githubusercontent.com/jpaddeo/jpaddeo.github.io/master/resume-en.json",
     "version": "v1.0.0",
     "lastModified": "2021-11-10T09:45:00"
   }

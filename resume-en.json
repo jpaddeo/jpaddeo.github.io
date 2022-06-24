@@ -1,0 +1,570 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Juan Pablo Addeo",
+    "label": "System's Engineer",
+    "image": "https://avatars.githubusercontent.com/u/3083587?v=4",
+    "picture": "https://avatars.githubusercontent.com/u/3083587?v=4",
+    "email": "juanpablo.addeo@gmail.com",
+    "phone": "(54) 9 11-3163-8755",
+    "url": "https://jpaddeo.github.io/",
+    "summary": "I'm Argentine born in Buenos Aires City. I'm System's Engineer and currently Fullstack Developer. Tech and Code Lover. Software Development from the begining. I have worked on multiples projects with multiples technologies. Freelancer. Entrepreneur.",
+    "location": {
+      "address": "Blanco Encalada 4765",
+      "postalCode": "1431",
+      "city": "Buenos Aires City",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jpaddeo",
+        "url": "https://twitter.com/jpaddeo"
+      },
+      {
+        "network": "Github",
+        "username": "jpaddeo",
+        "url": "https://github.com/jpaddeo/"
+      },
+      {
+        "network": "Gitlab",
+        "username": "jpaddeo",
+        "url": "https://gitlab.com/jpaddeo/"
+      },
+      {
+        "network": "Linkedin",
+        "username": "juanpabloaddeo",
+        "url": "https://www.linkedin.com/in/juanpabloaddeo/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Prosecutor's Office of Buenos Aires City",
+      "location": "Buenos Aires City",
+      "position": "System's Engineer",
+      "url": "https://www.mpfciudad.gob.ar",
+      "website": "https://www.mpfciudad.gob.ar",
+      "startDate": "2018-08-01",
+      "summary": "Head of I+D Department",
+      "highlights": [
+        "Software architecture",
+        "DevOps",
+        "Resources and project management",
+        "Software development",
+        "Integrations (microservices, APIs, etc.)",
+        "Coaching and mentoring"
+      ]
+    },
+    {
+      "company": "Prosecutor's Office of Buenos Aires City",
+      "location": "Buenos Aires City",
+      "position": "Software Development Lead",
+      "url": "https://www.mpfciudad.gob.ar",
+      "website": "https://www.mpfciudad.gob.ar",
+      "startDate": "2017-02-01",
+      "endDate": "2018-07-31",
+      "summary": "Software Development Area Lead",
+      "highlights": [
+        "Software development",
+        "Software architecture",
+        "Project management",
+        "Tech analysis",
+        "Coaching new IT resources"
+      ]
+    },
+    {
+      "company": "Prosecutor's Office of Buenos Aires City",
+      "location": "Buenos Aires City",
+      "position": "Software Developer and Tech Analysis",
+      "url": "https://www.mpfciudad.gob.ar",
+      "website": "https://www.mpfciudad.gob.ar",
+      "startDate": "2012-08-01",
+      "endDate": "2017-01-31",
+      "summary": "Tech analyst and software developer on IT and Comunications Department",
+      "highlights": ["Software Development", "Tech Analysis", "DB Design"]
+    },
+    {
+      "company": "Freelance",
+      "location": "Buenos Aires City",
+      "position": "Fullstack Developer and IT Consultant",
+      "url": "https://jpaddeo.github.io",
+      "website": "https://jpaddeo.github.io",
+      "startDate": "2008-08-01",
+      "summary": "Fullstack Developer. IT Consultant. Software Developer. Software Architect",
+      "highlights": [
+        "IT consulting",
+        "Software development",
+        "Mobile development",
+        "Web development",
+        "Software architecture",
+        "DevOps",
+        "Integrations"
+      ]
+    },
+    {
+      "company": "Baufest",
+      "location": "Buenos Aires City",
+      "position": ".NET and SharePoint Developer",
+      "url": "https://baufest.com",
+      "website": "https://baufest.com",
+      "startDate": "2010-05-01",
+      "endDate": "2012-07-31",
+      "summary": ".NET and SharePoint Developer for multiples clients and projects",
+      "highlights": [
+        "MOSS 2007 development, configuration and deployment",
+        "Infopath 2007 & 2010 forms development",
+        "Nintex 2007 & 2010 workflows development",
+        ".NET Integrations development from multiples platforms (ClearQuest, ActiveDirectory, CA USD, Sharepoint)"
+      ]
+    },
+    {
+      "company": "Baufest",
+      "location": "Buenos Aires City",
+      "position": "IT Specialist",
+      "url": "https://baufest.com",
+      "website": "https://baufest.com",
+      "startDate": "2009-09-01",
+      "endDate": "2010-04-30",
+      "summary": "Mainly IBM Rational ClearQuest development and configuration",
+      "highlights": [
+        "IBM Rational ClearQuest development and configuration",
+        "VBScript & SQL"
+      ]
+    },
+    {
+      "company": "IBM",
+      "location": "Buenos Aires City",
+      "position": "LATAM HR Access Application Developer",
+      "url": "https://ibm.com",
+      "website": "https://ibm.com",
+      "startDate": "2008-08-01",
+      "endDate": "2009-09-30",
+      "summary": "IBM Lotus Domino",
+      "highlights": [
+        "IBM Lotus Domino development, configuration & deployment",
+        "Help Desk Support",
+        "HR Access LATAM Account"
+      ]
+    },
+    {
+      "company": "NSX S.A.",
+      "location": "Buenos Aires City",
+      "position": "Junior IT Specialist",
+      "url": "http://www.e-nsx.com",
+      "website": "http://www.e-nsx.com",
+      "startDate": "2007-06-01",
+      "endDate": "2008-07-31",
+      "summary": "IBM Lotus Domino",
+      "highlights": [
+        "IBM Lotus Domino development, configuration & deployment",
+        "Help Desk Support"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica Nacional (UTN) - FRBA",
+      "url": "https://www.frba.utn.edu.ar",
+      "website": "https://www.frba.utn.edu.ar",
+      "area": "Universitario",
+      "studyType": "System's Engineer",
+      "startDate": "2006-01-01",
+      "endDate": "2018-08-01",
+      "courses": [
+        "SL-210 JAVA Programming",
+        "SL-275 JAVA Programming",
+        "Professional Webmaster"
+      ]
+    },
+    {
+      "institution": "Linkedin Learning",
+      "url": "https://www.linkedin.com/learning",
+      "website": "https://www.linkedin.com/learning",
+      "area": "Freelance",
+      "studyType": "Courses",
+      "startDate": "2021-01-01",
+      "courses": ["JavaScript Essentials"]
+    },
+    {
+      "institution": "Udemy",
+      "url": "https://udemy.com",
+      "website": "https://udemy.com",
+      "area": "Freelance",
+      "studyType": "Courses",
+      "startDate": "2018-01-01",
+      "endDate": "2021-03-01",
+      "courses": [
+        "Laravel 5.6, VueJS and MariaDB",
+        "GitLab CI: Pipelines, CI/CD and DevOps",
+        "Laravel API RESTful + Frontend VueJS"
+      ]
+    },
+    {
+      "institution": "Educacion IT",
+      "url": "https://www.educacionit.com/",
+      "website": "https://www.educacionit.com/",
+      "area": "Freelance",
+      "studyType": "Courses",
+      "startDate": "2018-02-01",
+      "endDate": "2018-03-01",
+      "courses": ["PHP MVC Laravel"]
+    },
+    {
+      "institution": "Datalytics",
+      "url": "https://www.datalytics.com/",
+      "website": "https://www.datalytics.com/",
+      "area": "Freelance",
+      "studyType": "Courses",
+      "startDate": "2015-09-01",
+      "endDate": "2015-11-01",
+      "courses": [
+        "Pentaho Platform Management and Install",
+        "Pentaho Data Integration",
+        "Ctools & Dashboard Editor",
+        "Pentaho Reports Designer & Metadata"
+      ]
+    },
+    {
+      "institution": "CodeSchool",
+      "url": "https://www.pluralsight.com/codeschool",
+      "website": "https://www.pluralsight.com/codeschool",
+      "area": "Freelance",
+      "studyType": "Courses",
+      "startDate": "2015-03-01",
+      "endDate": "2015-04-01",
+      "courses": ["Shaping Up with AngularJS"]
+    },
+    {
+      "institution": "ProcessMaker",
+      "url": "https://www.processmaker.com/",
+      "website": "https://www.processmaker.com/",
+      "area": "Freelance",
+      "studyType": "Courses",
+      "startDate": "2013-12-01",
+      "endDate": "2014-02-01",
+      "courses": [
+        "Processmaker Developer Course",
+        "Processmaker Advanced Architect Training"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Me Regalas Una Hora",
+      "position": "IT External Consultant",
+      "website": "https://meregalasunahora.org/",
+      "startDate": "2020-07-01",
+      "endDate": "2020-09-30",
+      "summary": "Hosting Account Manager (meregalasunahora.org). CMS and website Development and Deployment.",
+      "highlights": [
+        "Hosting Aacount manager",
+        "Re-design project manager",
+        "CMS and website development and deployment",
+        "Google Calendar and Leaflet GIS integrations"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Fullstack Software Developer",
+      "level": "Senior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "JavaScript",
+        "ReactJS",
+        "React Native",
+        "VueJS",
+        "Node.js",
+        "Deno",
+        "Angular",
+        "Materialize",
+        "Bootstrap",
+        "Python",
+        "Ionic",
+        "Java",
+        "Shell script",
+        ".NET Core",
+        "MySql",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Software Architect",
+      "level": "Semi Senior",
+      "keywords": [
+        "Elasticsearch",
+        "Kibana",
+        "Logstash",
+        "Filebeat",
+        "Microservicios / APIs",
+        "API REST",
+        "Gateways",
+        "Firebase",
+        "Keycloack",
+        "Server admin",
+        "Docker",
+        "Portainer",
+        "CI/CD",
+        "K8S"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "native"
+    },
+    {
+      "language": "English",
+      "fluency": "intermediate"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Sworn Patrimonials MPFCIUDAD",
+      "description": "Sworn patrimonials system for Prosecutor's Office of Buenos Aires City magisters",
+      "highlights": ["Backend (Lumen)", "Frontend (ReactJS)", "DB (MongoDB)"],
+      "keywords": ["reactjs", "lumen", "mongodb", "microservices"],
+      "startDate": "2021-05-30",
+      "endDate": "2021-07-01",
+      "url": "https://ddjj.mpfciudad.gob.ar",
+      "website": "https://ddjj.mpfciudad.gob.ar",
+      "roles": [
+        "Project leader",
+        "Software architect",
+        "Fullstack software developer"
+      ],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Files Signer MPFCIUDAD",
+      "description": "PDF files signer system for Prosecutor's Office of Buenos Aires City magisters",
+      "highlights": ["Backend (Lumen)", "Frontend (VueJS)", "DB (MySql)"],
+      "keywords": ["vuejs", "lumen", "mysql", "microservices"],
+      "startDate": "2021-02-01",
+      "endDate": "2021-03-31",
+      "url": "https://firmador.mpfciudad.gob.ar",
+      "website": "https://firmador.mpfciudad.gob.ar",
+      "roles": [
+        "Project leader",
+        "Software architect",
+        "Fullstack software developer"
+      ],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "¿Me Regalás Una Hora?",
+      "description": "Institutional rebranding and website development",
+      "highlights": [
+        "Laravel CMS",
+        "Website Development (blade views + Angular)",
+        "Leaflet GIS Integration",
+        "Google Calendar Integration"
+      ],
+      "keywords": ["cms", "laravel", "seo", "web"],
+      "startDate": "2020-07-01",
+      "endDate": "2020-09-30",
+      "url": "https://meregalasunahora.org",
+      "website": "https://meregalasunahora.org",
+      "roles": [
+        "Project leader",
+        "Software architect",
+        "Fullstack software developer",
+        "Functional analyst"
+      ],
+      "entity": "MRUH",
+      "type": "application"
+    },
+    {
+      "name": "E-learning MPFCIUDAD",
+      "description": "E-learning system for Prosecutor's Office of Buenos Aires City agents",
+      "highlights": [
+        "Laravel",
+        "Website development",
+        "Youtube videos API integration"
+      ],
+      "keywords": ["cms", "laravel", "seo"],
+      "startDate": "2020-01-01",
+      "endDate": "2020-02-28",
+      "url": "https://capacitacion.mpfciudad.gob.ar",
+      "website": "https://capacitacion.mpfciudad.gob.ar",
+      "roles": ["Project Leader", "Software Architect"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Aplicación Web Denuncias MPF",
+      "description": "It allows to any citizen residing on Buenos Aires City to make a report to Prosecutor's Office",
+      "highlights": [
+        "Progressive Web Application (PWA) made with Ionic + Angular",
+        "REST API for Prosecuttor's Records System integration"
+      ],
+      "keywords": ["pwa", "restapi", "angular", "ionic", "reports"],
+      "startDate": "2020-02-01",
+      "endDate": "2020-03-31",
+      "url": "https://denuncias.fiscalias.gob.ar/",
+      "website": "https://denuncias.fiscalias.gob.ar/",
+      "roles": ["Project Leader", "Software Architect"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Institutional Prosecutor's Office of Buenos Aires City website",
+      "description": "Rebrand and develop new institutional website",
+      "highlights": [
+        "Content Management System (CMS) development",
+        "Web development"
+      ],
+      "keywords": ["laravel", "blade", "usig", "elasticsearch", "html5"],
+      "startDate": "2020-02-01",
+      "endDate": "2020-03-31",
+      "url": "https://mpfciudad.gob.ar",
+      "website": "https://mpfciudad.gob.ar",
+      "roles": ["Project Leader", "Software Architect"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "iOS Reports App for Prosecutor's Office of Buenos Aires City",
+      "description": "Mobile Apple devices app that allow to any citizen residing on Buenos Aires City to make a report to Prosecutor's Office",
+      "highlights": ["Mobile Development"],
+      "keywords": [
+        "ionic",
+        "ios",
+        "microservices",
+        "googlemaps",
+        "html5",
+        "angular"
+      ],
+      "startDate": "2018-11-01",
+      "endDate": "2019-01-31",
+      "url": "https://apps.apple.com/ar/app/denuncias-mpf/id1446289355",
+      "website": "https://apps.apple.com/ar/app/denuncias-mpf/id1446289355",
+      "roles": ["Project Leader", "Software Architect"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "RENAPER and Prosecuttor's Records System integration Interface Deployment",
+      "description": "Deployment and development for an interface between RENAPER and Prosecuttor's Records System integration to validate the identity of persons on the system.",
+      "highlights": [
+        "Interfaces",
+        "Proxies + gateways",
+        "Microservices",
+        "Integrations"
+      ],
+      "keywords": ["php", "proxies", "gateways", "microservices", "renaper"],
+      "startDate": "2018-10-01",
+      "endDate": "2018-11-30",
+      "roles": ["Project Leader", "Software Architect", "Developer"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Android Reports App for Prosecutor's Office of Buenos Aires City",
+      "description": "Mobile Android devices app that allow to any citizen residing on Buenos Aires City to make a report to Prosecutor's Office",
+      "highlights": ["Mobile Development"],
+      "keywords": [
+        "ionic",
+        "android",
+        "microservices",
+        "googlemaps",
+        "html5",
+        "angular"
+      ],
+      "startDate": "2018-09-01",
+      "endDate": "2018-10-31",
+      "url": "https://play.google.com/store/apps/details?id=ar.gob.mpf.denunciasmob",
+      "website": "https://play.google.com/store/apps/details?id=ar.gob.mpf.denunciasmob",
+      "roles": ["Project Leader", "Software Architect"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "RNR and Prosecuttor's Records System integration Interface Deployment",
+      "description": "Deployment and development for an interface between RNR and Prosecuttor's Records System integration to validate the identity of persons on the system.",
+      "highlights": [
+        "Interfaces",
+        "Proxies + gateways",
+        "Microservices",
+        "Integrations"
+      ],
+      "keywords": ["php", "proxies", "gateways", "microservices", "rnr"],
+      "startDate": "2018-09-01",
+      "endDate": "2018-10-31",
+      "roles": ["Project Leader", "Software Architect", "Developer"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Prosecuttor's Office API REST Gateway Deployment",
+      "description": "API REST gateway to be more easy make integrations with Prosecuttor's Office. This API is based on Argentine's Modernization Ministery Digital Services National Direction.",
+      "highlights": [
+        "APIs",
+        "Proxies + gateways",
+        "Microservices",
+        "Integrations"
+      ],
+      "keywords": [
+        "laravel",
+        "api",
+        "php",
+        "proxies",
+        "gateways",
+        "microservices"
+      ],
+      "startDate": "2018-08-01",
+      "endDate": "2018-09-30",
+      "roles": ["Project Leader", "Software Architect", "Developer"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Vinculated Date Network for Prosecutor's Office of Buenos Aires City",
+      "description": "Visual graph tool that allow investigations and find relations between multiples datasources (like records, persons, geo, etc).",
+      "highlights": [
+        "Network Data",
+        "Graph",
+        "ETL",
+        "Datamining",
+        "Integrations"
+      ],
+      "keywords": ["neo4j", "angular", "popoto", "mysql"],
+      "startDate": "2017-09-01",
+      "endDate": "2017-11-30",
+      "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20381-17.pdf",
+      "website": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20381-17.pdf",
+      "roles": ["Project Leader", "Software Architect"],
+      "entity": "MPFCABA",
+      "type": "application"
+    },
+    {
+      "name": "Prosecuttor's Office Electornic Sign Deployment",
+      "description": "Electronic sign deployment to mainly systems of Prosecutor's Office of Buenos Aires City",
+      "highlights": ["Electronic Sign", "Microservices", "Integrations"],
+      "keywords": ["electronicsign", "java", "certificates", "microservices"],
+      "startDate": "2013-11-01",
+      "endDate": "2014-01-31",
+      "url": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20481-13.pdf",
+      "website": "https://mpfciudad.gob.ar/storage/archivos/Resoluci%C3%B3n%20FG%20N%C2%BA%20481-13.pdf",
+      "roles": ["Software Architect", "Developer"],
+      "entity": "MPFCABA",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jpaddeo/jpaddeo.github.io/master/resume-en.json",
+    "version": "v1.0.0",
+    "lastModified": "2022-06-24T09:45:00"
+  }
+}

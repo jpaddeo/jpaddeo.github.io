@@ -9,9 +9,9 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "jsonresume-theme-elegant": "^1.14.0",
+        "jsonresume-theme-elegant": "^1.16.1",
         "jsonresume-theme-kendall": "^0.2.0",
         "jsonresume-theme-spartan": "^0.3.0",
-        "resume-cli": "^3.0.0"
+        "resume-cli": "^3.0.7"
     }
 }

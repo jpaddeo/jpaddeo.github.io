@@ -11,7 +11,10 @@ jobs:
         run: |
           npm install
           mkdir public/
-          npm run resume export -- --theme elegant public/index.html
+          npm run resume export -- --theme kendall public/index_es.html
+          npm run resume export -- --resume resume-en.json --theme kendall --format pdf public/index_es.pdf
+          npm run resume export -- --resume resume-en.json --theme kendall public/index.html
+          npm run resume export -- --resume resume-en.json --theme kendall --format pdf public/index.pdf
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:
