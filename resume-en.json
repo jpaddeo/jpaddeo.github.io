@@ -89,8 +89,8 @@
       "company": "Freelance",
       "location": "Buenos Aires City",
       "position": "Fullstack Developer and IT Consultant",
-      "url": "https://jpaddeo.github.io",
-      "website": "https://jpaddeo.github.io",
+      "url": "https://jpaddeo.work",
+      "website": "https://jpaddeo.work",
       "startDate": "2008-08-01",
       "summary": "Fullstack Developer. IT Consultant. Software Developer. Software Architect",
       "highlights": [
@@ -165,20 +165,6 @@
   ],
   "education": [
     {
-      "institution": "Universidad Tecnológica Nacional (UTN) - FRBA",
-      "url": "https://www.frba.utn.edu.ar",
-      "website": "https://www.frba.utn.edu.ar",
-      "area": "Universitario",
-      "studyType": "System's Engineer",
-      "startDate": "2006-01-01",
-      "endDate": "2018-08-01",
-      "courses": [
-        "SL-210 JAVA Programming",
-        "SL-275 JAVA Programming",
-        "Professional Webmaster"
-      ]
-    },
-    {
       "institution": "Linkedin Learning",
       "url": "https://www.linkedin.com/learning",
       "website": "https://www.linkedin.com/learning",
@@ -247,6 +233,20 @@
       "courses": [
         "Processmaker Developer Course",
         "Processmaker Advanced Architect Training"
+      ]
+    },
+    {
+      "institution": "Universidad Tecnológica Nacional (UTN) - FRBA",
+      "url": "https://www.frba.utn.edu.ar",
+      "website": "https://www.frba.utn.edu.ar",
+      "area": "Universitario",
+      "studyType": "System's Engineer",
+      "startDate": "2006-01-01",
+      "endDate": "2018-08-01",
+      "courses": [
+        "SL-210 JAVA Programming",
+        "SL-275 JAVA Programming",
+        "Professional Webmaster"
       ]
     }
   ],
